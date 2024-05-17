@@ -1,6 +1,6 @@
 Data modeling
 
-Files with Conceptual Data Models for the xercises of the data modeling.
+Files with Conceptual Data Models for the exercises of the data modeling.
 
 Software: Looping 4.0
 
